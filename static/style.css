@@ -55,7 +55,7 @@ footer img{
 }
 @media (max-width: 450px) {
     .card-img-top {
-        width: 170px !important;
+        width: 160px !important;
         height: auto;
     }
 }
