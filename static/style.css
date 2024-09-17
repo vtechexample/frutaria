@@ -46,15 +46,16 @@ footer img{
     width: 100px;
     height: auto;
 }
-@media (max-width: 420px) {
-    .card-img-top {
-        width: 170px !important;
-        height: auto;
-    }
-}
+
 @media (max-width: 576px) {
     .card-img-top {
         width: 200px !important;
+        height: auto;
+    }
+}
+@media (max-width: 420px) {
+    .card-img-top {
+        width: 170px !important;
         height: auto;
     }
 }
