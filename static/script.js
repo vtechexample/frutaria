@@ -1,12 +1,12 @@
 let produtosSelecionados = {};
 let opcao = 'Na Mesa'; // Padrão
 let precosProdutos = {
-    'Produto 1': 10.00,
-    'Produto 2': 5.00,
-    'Produto 3': 5.00,
-    'Produto 4': 5.00,
-    'Produto 5': 10.00,
-    'Produto 6': 5.00
+    'Banana': 10.00,
+    'Laranja': 5.00,
+    'Limão': 5.00,
+    'Maça': 5.00,
+    'Melancia': 10.00,
+    'Pêra': 5.00
 };
 
 // Função para alterar a quantidade e atualizar o subtotal
